@@ -1,0 +1,12 @@
+# ninja log v6
+77	8110	7651791559507824	CMakeFiles/PixelPets.dir/Mascotas.cpp.obj	adea50c81777182f
+127	7141	7651815919633526	CMakeFiles/PixelPets.dir/Objetos.cpp.obj	1abb14d97f46e957
+97	7175	7651815919339915	CMakeFiles/PixelPets.dir/Habilidades.cpp.obj	b586ec62b3287c82
+214	7431	7651815920558748	CMakeFiles/PixelPets.dir/Plataformas.cpp.obj	b809d881f28905da
+167	7476	7651815920035866	CMakeFiles/PixelPets.dir/Tienda.cpp.obj	88a0b92d0fc914e9
+69	7507	7651815919050842	CMakeFiles/PixelPets.dir/Mascotas.cpp.obj	adea50c81777182f
+140	8044	7651833588733457	CMakeFiles/PixelPets.dir/Mascotas.cpp.obj	adea50c81777182f
+252	8051	7651833589851099	CMakeFiles/PixelPets.dir/Usuarios.cpp.obj	f138d0a05e392e79
+190	8065	7651833589224778	CMakeFiles/PixelPets.dir/Plataformas.cpp.obj	b809d881f28905da
+21	3560	7651834166589761	CMakeFiles/PixelPets.dir/main.cpp.obj	7d9ee036bb6f79b2
+3561	4614	7651834201990286	PixelPets.exe	68d27ebdc7af0e5b
